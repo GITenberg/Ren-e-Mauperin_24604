@@ -1,0 +1,47 @@
+_repo: Ren-e-Mauperin_24604
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hallard, Alys
+    alias: Ward, Alice Hall
+    gutenberg_agent_id: '87'
+    url: http://www.gutenberg.org/2009/agents/87
+covers:
+- cover_type: archival
+  image_path: 24604-h/images/covered.jpg
+creator:
+  authors:
+  - agent_name: Goncourt, Jules de
+    aliases:
+    - De Goncourt, Jules
+    - Goncourt, Jules Alfred Huot de
+    birthdate: 1830
+    deathdate: 1870
+    gutenberg_agent_id: '5694'
+    url: http://www.gutenberg.org/2009/agents/5694
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
+  - agent_name: Goncourt, Edmond de
+    aliases:
+    - De Goncourt, Edmond
+    - Goncourt, Edmond Louis Antoine Huot de
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+description: ''
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+title: Renée Mauperin
+url: http://www.gutenberg.org/ebooks/24604
